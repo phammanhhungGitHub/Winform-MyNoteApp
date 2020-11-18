@@ -1,0 +1,12 @@
+C:\Users\ACER\Desktop\WinForm\MyNoteApp\bin\Debug\MyNoteApp.exe.config
+C:\Users\ACER\Desktop\WinForm\MyNoteApp\bin\Debug\MyNoteApp.exe
+C:\Users\ACER\Desktop\WinForm\MyNoteApp\bin\Debug\MyNoteApp.pdb
+C:\Users\ACER\Desktop\WinForm\MyNoteApp\obj\Debug\MyNoteApp.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\WinForm\MyNoteApp\obj\Debug\MyNoteApp.Properties.Resources.resources
+C:\Users\ACER\Desktop\WinForm\MyNoteApp\obj\Debug\MyNoteApp.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\WinForm\MyNoteApp\obj\Debug\MyNoteApp.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\WinForm\MyNoteApp\obj\Debug\MyNoteApp.exe
+C:\Users\ACER\Desktop\WinForm\MyNoteApp\obj\Debug\MyNoteApp.pdb
+C:\Users\ACER\Desktop\WinForm\MyNoteApp\obj\Debug\MyNoteApp.FormNoteList.resources
+C:\Users\ACER\Desktop\WinForm\MyNoteApp\obj\Debug\MyNoteApp.NoteItem.resources
+C:\Users\ACER\Desktop\WinForm\MyNoteApp\obj\Debug\MyNoteApp.NoteForm.resources

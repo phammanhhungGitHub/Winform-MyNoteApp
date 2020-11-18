@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MyNoteApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Size" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">640, 670</Value>
+    </Setting>
+    <Setting Name="FontTitle" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Times New Roman, 13.8pt, style=Bold</Value>
+    </Setting>
+    <Setting Name="FontContent" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Times New Roman, 12pt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

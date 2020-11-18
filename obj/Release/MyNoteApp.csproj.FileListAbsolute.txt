@@ -1,0 +1,16 @@
+C:\Users\ACER\Desktop\CNTT-TT\WinForm\MyNoteApp\bin\Release\MyNoteApp.exe.config
+C:\Users\ACER\Desktop\CNTT-TT\WinForm\MyNoteApp\bin\Release\MyNoteApp.exe.manifest
+C:\Users\ACER\Desktop\CNTT-TT\WinForm\MyNoteApp\bin\Release\MyNoteApp.application
+C:\Users\ACER\Desktop\CNTT-TT\WinForm\MyNoteApp\bin\Release\MyNoteApp.exe
+C:\Users\ACER\Desktop\CNTT-TT\WinForm\MyNoteApp\bin\Release\MyNoteApp.pdb
+C:\Users\ACER\Desktop\CNTT-TT\WinForm\MyNoteApp\obj\Release\MyNoteApp.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\CNTT-TT\WinForm\MyNoteApp\obj\Release\MyNoteApp.FormNoteList.resources
+C:\Users\ACER\Desktop\CNTT-TT\WinForm\MyNoteApp\obj\Release\MyNoteApp.NoteForm.resources
+C:\Users\ACER\Desktop\CNTT-TT\WinForm\MyNoteApp\obj\Release\MyNoteApp.NoteItem.resources
+C:\Users\ACER\Desktop\CNTT-TT\WinForm\MyNoteApp\obj\Release\MyNoteApp.Properties.Resources.resources
+C:\Users\ACER\Desktop\CNTT-TT\WinForm\MyNoteApp\obj\Release\MyNoteApp.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\CNTT-TT\WinForm\MyNoteApp\obj\Release\MyNoteApp.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\CNTT-TT\WinForm\MyNoteApp\obj\Release\MyNoteApp.exe.manifest
+C:\Users\ACER\Desktop\CNTT-TT\WinForm\MyNoteApp\obj\Release\MyNoteApp.application
+C:\Users\ACER\Desktop\CNTT-TT\WinForm\MyNoteApp\obj\Release\MyNoteApp.exe
+C:\Users\ACER\Desktop\CNTT-TT\WinForm\MyNoteApp\obj\Release\MyNoteApp.pdb
